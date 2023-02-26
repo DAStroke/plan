@@ -1,0 +1,68 @@
+---
+title: "22-23学年第二学期计划"
+author: "王岳森"
+output:
+  xaringan::moon_reader:
+    css: [default, zh-CN.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: left, middle
+
+## 上学期课程
+
+- 中级微观经济学
+
+- 高级数理统计专题
+
+- 国民经济核算
+
+---
+
+## 阅读的文献
+
+- Athey, S. , G. W. Imbens . "Machine Learning Methods for Estimating Heterogeneous Causal Eects." (2015).
+
+- Knaus, M. C. , M. Lechner , A. Strittmatter . "Heterogeneous Employment Effects of Job Search Programmes: A Machine Learning Approach." Journal of Human Resources (2017).
+
+- 胡安宁, 吴晓刚, 陈云松. "处理效应异质性分析——机器学习方法带来的机遇与挑战." 社会学研究 1(2021):25.
+
+- 钱浩祺, 龚嫣然, 吴力波. "更精确的因果效应识别:基于机器学习的视角." 计量经济学报 4(2021):25.
+
+---
+class: inverse, center, middle
+
+# 新学期
+
+---
+
+# 上学期的期末考试
+
+- 中级微观经济学
+
+- 高级数理统计专题
+
+---
+
+# 本学期的课程
+
+- 中级宏观经济学
+
+- 中级计量经济学
+
+- 多元统计分析
+
+- 应用统计专题讨论
+
+- 统计计算
+
+---
+
