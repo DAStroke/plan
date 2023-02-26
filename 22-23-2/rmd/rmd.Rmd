@@ -81,6 +81,8 @@ class: left, middle
 ---
 class: left, middle
 
+# 深入的方向：因果推断与机器学习
+
 # 可能阅读的书：
 
 - Causal Inference in Statistics: A Primer（翻译版）， Judea Pearl等著
