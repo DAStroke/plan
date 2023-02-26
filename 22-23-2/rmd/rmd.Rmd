@@ -17,7 +17,7 @@ options(htmltools.dir.version = FALSE)
 
 class: left, middle
 
-## 上学期课程
+# 上学期课程
 
 - 中级微观经济学
 
@@ -26,8 +26,9 @@ class: left, middle
 - 国民经济核算
 
 ---
+class: left, middle
 
-## 阅读的文献
+# 阅读的文献
 
 - Athey, S. , G. W. Imbens . "Machine Learning Methods for Estimating Heterogeneous Causal Eects." (2015).
 
@@ -43,6 +44,7 @@ class: inverse, center, middle
 # 新学期
 
 ---
+class: left, middle
 
 # 上学期的期末考试
 
@@ -51,6 +53,7 @@ class: inverse, center, middle
 - 高级数理统计专题
 
 ---
+class: left, middle
 
 # 本学期的课程
 
@@ -65,4 +68,22 @@ class: inverse, center, middle
 - 统计计算
 
 ---
+class: left, middle
 
+# Econometric Evaluation of Socio-Economic Programs
+
+## Theory and Applications (Second Edition)
+
+- Chapter 5 Difference-in-Differences with Many Pre- and Post-Treatment Times
+
+- Chapter 6 Synthetic Control Method
+---
+class: left, middle
+
+# 可能阅读的书：
+
+- Causal Inference in Statistics: A Primer（翻译版）， Judea Pearl等著
+
+- 因果推断与机器学习，郭若城等编著
+
+- Causality: Models, Reasoning and Inference（翻译版）， Judea Pearl著
